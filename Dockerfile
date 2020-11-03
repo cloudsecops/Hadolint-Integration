@@ -1,5 +1,5 @@
 FROM debian
-hadolint ignore=DL3006
+#hadolint ignore=DL3006
 
 RUN export node_version="0.10" \
 && apt-get update && apt-get -y install nodejs="$node_verion"
