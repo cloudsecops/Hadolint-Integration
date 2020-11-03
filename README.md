@@ -1,3 +1,3 @@
-# Hadolint_test
+# Hadolint-Integration
 
-- Repository for testing Continuous integration with github actions
+- Repository for testing Continuous integration with github actions.
